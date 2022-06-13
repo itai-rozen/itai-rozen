@@ -1,7 +1,8 @@
 
  
-### Hi there 👋
+#### Hi!
 <div id="header" align="center">
+ 
 <img height="150px"  src="https://media.giphy.com/media/lJbftRexn8eBGjLOkN/giphy.gif" />
 </div>
 <h2>My name is Itai.</h2>
