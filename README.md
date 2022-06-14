@@ -20,10 +20,12 @@
   <img src="https://user-images.githubusercontent.com/45075787/173448757-2dc918c3-df75-466f-ba67-196087710e1a.png" alt="typescript" title="typescript" width="50px">
     </p>
     <h3>
+ <p align="center">
 I have some cool repos here, but if you want to see some of my projects at work, go ahead and
 <a href="https://itai-rozen-portfolio.netlify.app/"><strong>
   <em>click here</em></strong>
 </a>
 </h3>
+</p>
 
 
